@@ -1,9 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - 一隅造化</title>
+        <title>All Posts - 一隅有造化</title>
         <link>http://example.org/posts/</link>
-        <description>All Posts | 一隅造化</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>All Posts | 一隅有造化</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 12 Sep 2023 11:05:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Tue, 12 Sep 2023 11:05:26 &#43;0800</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[*** 有 ***]]></description>
+</item>
+<item>
+    <title>帝国财政密码</title>
+    <link>http://example.org/posts/%E5%B8%9D%E5%9B%BD%E8%B4%A2%E6%94%BF%E5%AF%86%E7%A0%81/</link>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/posts/%E5%B8%9D%E5%9B%BD%E8%B4%A2%E6%94%BF%E5%AF%86%E7%A0%81/</guid>
+    <description><![CDATA[帝国财政密码 section 1 section 2 picture]]></description>
+</item>
+<item>
     <title>汴京之围</title>
     <link>http://example.org/posts/%E6%B1%B4%E4%BA%AC%E4%B9%8B%E5%9B%B4/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>

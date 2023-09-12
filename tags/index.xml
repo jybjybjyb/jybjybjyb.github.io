@@ -1,13 +1,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - 一隅造化</title>
+        <title>Tags - Tag - 一隅有造化</title>
         <link>http://example.org/tags/</link>
-        <description>Tags - Tag - 一隅造化</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <description>Tags - Tag - 一隅有造化</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>历史</title>
+    <link>http://example.org/tags/%E5%8E%86%E5%8F%B2/</link>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/tags/%E5%8E%86%E5%8F%B2/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>财政</title>
+    <link>http://example.org/tags/%E8%B4%A2%E6%94%BF/</link>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/tags/%E8%B4%A2%E6%94%BF/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>郭建龙</title>
+    <link>http://example.org/tags/%E9%83%AD%E5%BB%BA%E9%BE%99/</link>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 &#43;0000</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/tags/%E9%83%AD%E5%BB%BA%E9%BE%99/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>世家门第</title>
     <link>http://example.org/tags/%E4%B8%96%E5%AE%B6%E9%97%A8%E7%AC%AC/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E4%B8%96%E5%AE%B6%E9%97%A8%E7%AC%AC/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -15,7 +39,7 @@
     <title>党争</title>
     <link>http://example.org/tags/%E5%85%9A%E4%BA%89/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E5%85%9A%E4%BA%89/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -23,7 +47,7 @@
     <title>北宋</title>
     <link>http://example.org/tags/%E5%8C%97%E5%AE%8B/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E5%8C%97%E5%AE%8B/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -31,7 +55,7 @@
     <title>南北朝</title>
     <link>http://example.org/tags/%E5%8D%97%E5%8C%97%E6%9C%9D/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E5%8D%97%E5%8C%97%E6%9C%9D/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -39,7 +63,7 @@
     <title>治乱变换</title>
     <link>http://example.org/tags/%E6%B2%BB%E4%B9%B1%E5%8F%98%E6%8D%A2/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E6%B2%BB%E4%B9%B1%E5%8F%98%E6%8D%A2/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -47,7 +71,7 @@
     <title>魏晋嬗代</title>
     <link>http://example.org/tags/%E9%AD%8F%E6%99%8B%E5%AC%97%E4%BB%A3/</link>
     <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E9%AD%8F%E6%99%8B%E5%AC%97%E4%BB%A3/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -55,7 +79,7 @@
     <title>士族</title>
     <link>http://example.org/tags/%E5%A3%AB%E6%97%8F/</link>
     <pubDate>Fri, 17 Feb 2023 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
+    <author>庭芝</author>
     <guid>http://example.org/tags/%E5%A3%AB%E6%97%8F/</guid>
     <description><![CDATA[]]></description>
 </item>
