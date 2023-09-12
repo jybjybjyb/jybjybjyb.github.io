@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>北宋 - Tag - 一隅造化</title>
+        <link>http://example.org/tags/%E5%8C%97%E5%AE%8B/</link>
+        <description>北宋 - Tag - 一隅造化</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/%E5%8C%97%E5%AE%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>汴京之围</title>
+    <link>http://example.org/posts/%E6%B1%B4%E4%BA%AC%E4%B9%8B%E5%9B%B4/</link>
+    <pubDate>Wed, 01 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>庭芝</author>
+    <guid>http://example.org/posts/%E6%B1%B4%E4%BA%AC%E4%B9%8B%E5%9B%B4/</guid>
+    <description><![CDATA[《汴京之围》 鸽派与鹰派 丰亨欲大，烈火烹油。衮衮诸公，皆邀名携近之徒；畿内士人，尽汲汲构营之辈。 蔡章法吏，怀异能之大才；王诸相，亦是鲠骨之臣；]]></description>
+</item>
+</channel>
+</rss>
